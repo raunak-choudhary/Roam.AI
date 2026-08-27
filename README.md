@@ -1,4 +1,10 @@
-# Roam.AI
+<p align="center">
+  <img src="frontend2/public/Logo_Roamai.png" alt="Roam.AI logo" width="260">
+</p>
+
+<h1 align="center">Roam.AI</h1>
+
+<p align="center"><strong>Your intelligent travel companion</strong></p>
 
 An AI travel companion that turns a location and an amount of free time into a concrete itinerary, combining an interactive Google Maps interface with Claude-generated recommendations and a community feed of places contributed by other travellers.
 
